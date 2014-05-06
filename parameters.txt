@@ -1,0 +1,10 @@
+Adding the following parameters to Hubo-Ach channel will cause it to wave:
+
+LEB = 2
+LSP=
+LWP=-0.75
+LWY=-1
+RSP=0.1
+ 
+ 
+ Look at an example included with the Hubo-ach controller to see how it works.
