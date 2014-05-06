@@ -10,3 +10,4 @@ Pre requisites for succesful operation of this code:
 5) Running Hubo_2_Dyn code first and succesful communication with servos
 6) Running the walking code 
 7) Patience and troubleshooting
+*We USED .0185 For the step size and this seems to work best
